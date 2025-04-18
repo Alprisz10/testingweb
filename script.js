@@ -87,4 +87,5 @@ function sd() {
     nlayar.innerHTML = hasil
   }
   document.getElementById('back').style.display = ('inline-block')
+  document.querySelector('.btn').style.display = ('none')
 }
